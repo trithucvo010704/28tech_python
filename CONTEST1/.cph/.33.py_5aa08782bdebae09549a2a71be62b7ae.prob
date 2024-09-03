@@ -1,0 +1,1 @@
+{"name":"Local: 33","url":"c:\\Users\\PV\\Documents\\laptrinh\\28TECH_PY\\CONTEST1\\33.py","tests":[{"id":1725296795788,"input":"5 3 2 8\n","output":"YES"},{"id":1725297315732,"input":"2 5 4 0 4\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PV\\Documents\\laptrinh\\28TECH_PY\\CONTEST1\\33.py","group":"local","local":true}
