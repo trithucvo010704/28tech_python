@@ -1,0 +1,1 @@
+{"name":"Local: bt","url":"c:\\Users\\PV\\Documents\\laptrinh\\28TECH_PY\\CONTEST6\\bt.py","tests":[{"id":1726424188143,"input":"5\n20\n16\n10\n22\n29\n","output":"9699690\n30030\n210\n9699690\n469693188\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PV\\Documents\\laptrinh\\28TECH_PY\\CONTEST6\\bt.py","group":"local","local":true}
